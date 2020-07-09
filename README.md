@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ZbIADknDu7C4lKolgb/giphy.gif" width=80%>
+<img src="https://cdn.slashgear.com/wp-content/uploads/2019/07/rick_morty_season_4-1280x720.jpg" width=80%>
 
 ## 👋 Hello there!
 

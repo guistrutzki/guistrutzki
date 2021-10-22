@@ -45,6 +45,7 @@ I'm _Guilherme Strutzki_ and a Front-End/Mobile developer. I'm passionate about 
 	</ul>	
 </details>
 
+<!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
 ```text

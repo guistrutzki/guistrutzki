@@ -4,6 +4,8 @@
 
 I'm _Guilherme Strutzki_ and a Front-End/Mobile developer. I'm passionate about technology, communities, and everything in-between. I work with React, RN, Typescript and now learning Swift and iOS development. I love to learn and contribute in any and every possible way. 
 
+<img align="right" alt="GIF" src="https://spotify-github-profile.vercel.app/api/view?uid=22gkdonhf4okms5x5dsdjx7sy&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=false"/>
+
 ### :space_invader: &nbsp;About Me
 - :earth_americas:&nbsp; Currently working as a _Front-End developer_ at [L2Code](https://www.l2code.com.br/)
 - :heart: &nbsp;Passionate with problem solving and coding

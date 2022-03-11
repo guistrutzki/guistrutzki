@@ -1,5 +1,3 @@
-<img src="https://cdn.slashgear.com/wp-content/uploads/2019/07/rick_morty_season_4-1280x720.jpg" width=80%>
-
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px">
 
 I'm _Guilherme Strutzki_ and a Front-End/Mobile developer. I'm passionate about technology, communities, and everything in-between. I work with React, RN, Typescript and now learning Swift and iOS development. I love to learn and contribute in any and every possible way. 

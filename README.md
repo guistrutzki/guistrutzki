@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px">
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px" height="34px">
 
 I'm _Guilherme Strutzki_ and a Mobile/Front-End developer. I'm passionate about technology, communities, and everything in-between. I work with iOS development, React, RN, Typescript. I love to learn and contribute in any and every possible way. 
 

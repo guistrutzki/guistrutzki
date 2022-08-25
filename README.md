@@ -44,7 +44,7 @@ I'm _Guilherme Strutzki_ and a Mobile/Front-End developer. I'm passionate about 
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-908%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%206%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -100,5 +100,5 @@ Objective-C              3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2022 18:52:48 UTC
+ Last Updated on 25/08/2022 18:45:06 UTC
 <!--END_SECTION:waka-->

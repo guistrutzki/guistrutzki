@@ -73,13 +73,13 @@ Sunday       42 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -96,5 +96,5 @@ Objective-C              3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2023 18:37:25 UTC
+ Last Updated on 19/01/2023 18:38:57 UTC
 <!--END_SECTION:waka-->

@@ -44,7 +44,7 @@ I'm _Guilherme Strutzki_ and a Mobile/Front-End developer. I'm passionate about 
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C301%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C302%20hrs%2012%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -71,9 +71,9 @@ Sunday                   899 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 23 mins       █████████████████████░░░░   83.68 % 
+TypeScript               7 hrs 23 mins       █████████████████████░░░░   83.69 % 
 JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 TSConfig                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
@@ -97,5 +97,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2023 18:40:17 UTC
+ Last Updated on 23/04/2023 18:39:01 UTC
 <!--END_SECTION:waka-->

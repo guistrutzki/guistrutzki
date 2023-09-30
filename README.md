@@ -1,16 +1,15 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px" height="34px">
 
-I'm _Guilherme Strutzki_ and a Mobile/Front-End developer. I'm passionate about technology, communities, and everything in-between. I work with iOS development, React, RN, Typescript. I love to learn and contribute in any and every possible way. 
+I'm _Guilherme Strutzki_ and I work as a Mobile/Front-End developer. I'm passionate about technology, communities, and everything in between. I work with mobile development (hybrid and native) and also as a tech lead at Natura, one of the biggest companies in Brazil. I love to learn and contribute in any and every possible way. 
 
 <img align="right" alt="GIF" src="https://spotify-github-profile.vercel.app/api/view?uid=22gkdonhf4okms5x5dsdjx7sy&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=false"/>
 
 ### :space_invader: &nbsp;About Me
-- :earth_americas:&nbsp; Currently working as _iOS Developer_ at [SoftDesign](https://softdesign.com.br/)
+- :earth_americas:&nbsp; Currently working as _Tech lead_ at [Compass.Uol](https://compass.uol/en/home/)
 - :heart: &nbsp;Passionate with problem solving and coding
-- :technologist: &nbsp;Swift, React Native, React, Typescript, Vue, Node, Git
-- :hourglass_flowing_sand: &nbsp;Coding since 2018 with 4+ years of experience in Front-end and 3+ years in mobile development (Swift and RN)
-- 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/guilherme-strutzki/)
-- :family_man_woman_girl_girl: &nbsp;Living in Pelotas/RS (Brazil) with my lovely wife, my baby, and my pet
+- :technologist: &nbsp;React Native, Swift, Typescript, React, Node
+- :hourglass_flowing_sand: &nbsp;Coding since 2018 with 5+ years of experience in Front-end and 4+ years in mobile development (RN and Swift)
+- 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/guilherme-strutzki/?locale=en_US)
 
 ### 🔨 &nbsp; Languages and Tools:
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>

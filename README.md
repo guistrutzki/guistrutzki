@@ -70,13 +70,14 @@ Sunday                   783 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               9 mins              █████████████████████████   99.08 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,5 +93,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2024 18:38:38 UTC
+ Last Updated on 15/03/2024 18:38:48 UTC
 <!--END_SECTION:waka-->

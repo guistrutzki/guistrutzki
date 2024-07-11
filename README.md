@@ -70,13 +70,15 @@ Sunday                   808 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 min               ███████████████████████░░   93.71 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,5 +94,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2024 18:43:26 UTC
+ Last Updated on 11/07/2024 18:40:59 UTC
 <!--END_SECTION:waka-->

@@ -43,8 +43,6 @@ I'm _Guilherme Strutzki_ and I work as a Mobile/Front-End developer. I'm passion
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C552%20hrs%2038%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -96,5 +94,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2024 18:42:23 UTC
+ Last Updated on 03/11/2024 18:42:54 UTC
 <!--END_SECTION:waka-->

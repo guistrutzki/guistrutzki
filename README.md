@@ -1,14 +1,16 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px" height="34px">
 
-I'm _Guilherme Strutzki_ and I work as a Mobile/Front-End developer. I'm passionate about technology, communities, and everything in between. I work with mobile development (hybrid and native) and also as a tech lead at Natura, one of the biggest companies in Brazil. I love to learn and contribute in any and every possible way. 
+I'm **Guilherme Strutzki**, a **Tech Lead Mobile/Front-End Developer** passionate about technology, problem-solving, and contributing to the tech community. I specialize in **mobile development** (both hybrid and native) and currently lead the technical team for the **billing module** at **[Natura & Co](https://www.naturaeco.com/pt-br/)**, one of Brazil's largest companies. 
+
+I strive for excellence, continuous learning, and sharing knowledge to make a meaningful impact through technology and leadership.
 
 <img align="right" alt="GIF" src="https://spotify-github-profile.vercel.app/api/view?uid=22gkdonhf4okms5x5dsdjx7sy&cover_image=true&theme=default&bar_color=09ff00&bar_color_cover=false"/>
 
 ### :space_invader: &nbsp;About Me
-- :earth_americas:&nbsp; Currently working as _Tech lead_ at [Compass.Uol](https://compass.uol/en/home/)
+- :earth_americas:&nbsp; Currently working as _Tech lead_ at [Natura & Co](https://www.naturaeco.com/pt-br/)
 - :heart: &nbsp;Passionate with problem solving and coding
 - :technologist: &nbsp;React Native, Swift, Typescript, React, Node
-- :hourglass_flowing_sand: &nbsp;Coding since 2018 with 5+ years of experience in Front-end and 4+ years in mobile development (RN and Swift)
+- :hourglass_flowing_sand: &nbsp;Coding since 2018 with 5+ years of experience in Front-end and mobile development (RN and Swift)
 - 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/guilherme-strutzki/?locale=en_US)
 
 ### 🔨 &nbsp; Languages and Tools:

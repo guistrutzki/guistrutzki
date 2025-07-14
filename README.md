@@ -45,7 +45,7 @@ I strive for excellence, continuous learning, and sharing knowledge to make a me
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C054%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C054%20hrs%2033%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -98,5 +98,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2025 18:46:38 UTC
+ Last Updated on 14/07/2025 18:50:37 UTC
 <!--END_SECTION:waka-->

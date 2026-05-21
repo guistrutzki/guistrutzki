@@ -45,20 +45,59 @@ I strive for excellence, continuous learning, and sharing knowledge to make a me
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C766%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C772%20hrs%208%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+🌆 Daytime                958 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+🌃 Evening                1777 commits        ████████░░░░░░░░░░░░░░░░░   32.14 % 
+🌙 Night                  2394 commits        ███████████░░░░░░░░░░░░░░   43.30 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   831 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Tuesday                  749 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Wednesday                800 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Thursday                 922 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Friday                   685 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Saturday                 580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Sunday                   962 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               18 hrs 54 mins      ██████████████░░░░░░░░░░░   55.66 % 
+Markdown                 8 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+JSON                     2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+
+🔥 Editors: 
+Cursor                   24 hrs 57 mins      ██████████████████░░░░░░░   73.44 % 
+Claude Code              9 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+
+💻 Operating System: 
+Mac                      33 hrs 59 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               67 repos            █████████████░░░░░░░░░░░░   52.34 % 
-Swift                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+TypeScript               68 repos            █████████████░░░░░░░░░░░░   52.71 % 
+Swift                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 
 
 
- Last Updated on 20/05/2026 19:26:47 UTC
+ Last Updated on 21/05/2026 19:20:52 UTC
 <!--END_SECTION:waka-->

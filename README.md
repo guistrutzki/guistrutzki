@@ -70,18 +70,18 @@ Sunday                   1618 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 28 mins       ████████████░░░░░░░░░░░░░   46.08 % 
-Markdown                 3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-JSON                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               10 hrs 34 mins      ███████████░░░░░░░░░░░░░░   45.46 % 
+Markdown                 5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+JSON                     3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Other                    1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 56 mins      ███████████████████░░░░░░   75.85 % 
-Cursor                   4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Claude Code              17 hrs 10 mins      ██████████████████░░░░░░░   73.87 % 
+Cursor                   6 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.13 % 
 
 💻 Operating System: 
-Mac                      18 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +97,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 20:05:11 UTC
+ Last Updated on 24/07/2026 20:03:35 UTC
 <!--END_SECTION:waka-->

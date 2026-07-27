@@ -45,7 +45,9 @@ I strive for excellence, continuous learning, and sharing knowledge to make a me
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C964%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C853%20hrs%2057%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-410%20hrs%2040%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -72,18 +74,42 @@ Sunday                   1618 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 48 mins       ███████████░░░░░░░░░░░░░░   42.58 % 
-Markdown                 4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-JSON                     3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+TypeScript               7 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
+Markdown                 4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+JSON                     3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 55 mins      ███████████████████░░░░░░   76.98 % 
-Cursor                   4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Claude Code              14 hrs 28 mins      ███████████████████░░░░░░   75.74 % 
+Cursor                   4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
 
 💻 Operating System: 
-Mac                      20 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 6 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 hrs 38 mins (87.07%)
+
+✍️ 6,152 lines written by AI, 14 lines written by hand (99.77% AI-written)
+
+🔤 157,991,970 Input Tokens, 624,436 Output Tokens
+
+💵 $476.24 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 276 AI Prompts
+
+Sonnet                   7,404 lines         █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.77% of written lines came from AI
+📄 Detailed Prompter — average 903 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,5 +125,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:51:06 UTC
+ Last Updated on 27/07/2026 20:12:56 UTC
 <!--END_SECTION:waka-->

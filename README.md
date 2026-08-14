@@ -52,21 +52,21 @@ I strive for excellence, continuous learning, and sharing knowledge to make a me
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1442 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-🌆 Daytime                2486 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-🌃 Evening                3329 commits        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-🌙 Night                  6949 commits        ████████████░░░░░░░░░░░░░   48.92 % 
+🌞 Morning                1500 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+🌆 Daytime                2576 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+🌃 Evening                3414 commits        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+🌙 Night                  7230 commits        ████████████░░░░░░░░░░░░░   49.12 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2936 commits        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Tuesday                  1914 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Wednesday                2183 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Thursday                 2042 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Friday                   1484 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Saturday                 1575 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Sunday                   2072 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Monday                   3034 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Tuesday                  1992 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Wednesday                2270 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Thursday                 2117 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Friday                   1545 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Saturday                 1634 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Sunday                   2128 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
 ```
 
 
@@ -74,19 +74,40 @@ Sunday                   2072 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               10 mins             █████████████████░░░░░░░░   66.02 % 
+Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+JSON                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+SQL                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              15 mins             ████████████████████████░   96.83 % 
+Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 16 mins (100.0%)
+
+✍️ 6 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 151,411 Input Tokens, 31,249 Output Tokens
+
+💵 $3.82 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 5 AI Prompts
+
+Opus                     6 lines             █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 12,273 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,5 +123,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:46:08 UTC
+ Last Updated on 14/08/2026 19:37:20 UTC
 <!--END_SECTION:waka-->

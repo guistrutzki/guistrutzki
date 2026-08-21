@@ -45,9 +45,9 @@ I strive for excellence, continuous learning, and sharing knowledge to make a me
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C927%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C927%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-485%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-486%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -74,42 +74,42 @@ Sunday                   4009 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.87 % 
-TypeScript               5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-HTML                     2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Image (svg)              1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Markdown                 6 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
+TypeScript               4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+HTML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Image (svg)              1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 50 mins      ███████████████████████░░   93.07 % 
-Cursor                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Agent                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Claude Code              14 hrs 48 mins      ███████████████████████░░   91.84 % 
+Cursor                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Agent                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 💻 Operating System: 
-Mac                      21 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 11 mins (99.33%)
+⏱ AI Coding Time: 15 hrs 59 mins (99.12%)
 
-✍️ 8,123 lines written by AI, 11 lines written by hand (99.86% AI-written)
+✍️ 5,548 lines written by AI, 11 lines written by hand (99.8% AI-written)
 
-🔤 7,662,486 Input Tokens, 1,970,726 Output Tokens
+🔤 5,723,028 Input Tokens, 1,444,473 Output Tokens
 
-💵 $274.54 Estimated AI Cost This Week
+💵 $214.14 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 342 AI Prompts
+🧠 46 AI Sessions, 275 AI Prompts
 
-Opus                     9,004 lines         █████████████████████████   100.00 % 
+Opus                     6,365 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 2,322 characters per prompt
+🤖 AI-Driven — 99.8% of written lines came from AI
+📚 Verbose Prompter — average 2,241 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🚀 High AI Trust — 0.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,5 +125,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:25:42 UTC
+ Last Updated on 21/08/2026 19:19:54 UTC
 <!--END_SECTION:waka-->

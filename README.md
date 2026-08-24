@@ -45,9 +45,9 @@ I strive for excellence, continuous learning, and sharing knowledge to make a me
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C927%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C927%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-486%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-486%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -74,56 +74,56 @@ Sunday                   4177 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.43 % 
-Markdown                 6 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.42 % 
-Bash                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript               6 hrs 54 mins       ████████████████░░░░░░░░░   63.33 % 
+Markdown                 2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 42 mins      ███████████████████████░░   92.49 % 
-Cursor                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Agent                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Claude Code              9 hrs 47 mins       ██████████████████████░░░   89.73 % 
+Cursor                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Agent                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 💻 Operating System: 
-Mac                      15 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 45 mins (99.11%)
+⏱ AI Coding Time: 10 hrs 45 mins (98.7%)
 
-✍️ 2,755 lines written by AI, 11 lines written by hand (99.6% AI-written)
+✍️ 2,343 lines written by AI, 11 lines written by hand (99.53% AI-written)
 
-🔤 4,546,342 Input Tokens, 1,366,582 Output Tokens
+🔤 3,471,448 Input Tokens, 1,027,877 Output Tokens
 
-💵 $170.39 Estimated AI Cost This Week
+💵 $132.47 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 301 AI Prompts
+🧠 39 AI Sessions, 216 AI Prompts
 
-Opus                     2,952 lines         █████████████████████████   100.00 % 
+Opus                     2,540 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📚 Verbose Prompter — average 1,828 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🤖 AI-Driven — 99.53% of written lines came from AI
+📚 Verbose Prompter — average 2,283 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               68 repos            █████████████░░░░░░░░░░░░   52.71 % 
-Swift                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+TypeScript               67 repos            █████████████░░░░░░░░░░░░   52.34 % 
+Swift                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 
 
 
- Last Updated on 23/08/2026 19:10:18 UTC
+ Last Updated on 24/08/2026 19:22:09 UTC
 <!--END_SECTION:waka-->

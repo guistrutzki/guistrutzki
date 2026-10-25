@@ -45,27 +45,27 @@ I strive for excellence, continuous learning, and sharing knowledge to make a me
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C087%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C087%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-678%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-678%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                10335 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-🌆 Daytime                16375 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-🌃 Evening                15944 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-🌙 Night                  49101 commits       █████████████░░░░░░░░░░░░   53.51 % 
+🌆 Daytime                16416 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+🌃 Evening                15952 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+🌙 Night                  49101 commits       █████████████░░░░░░░░░░░░   53.48 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   19299 commits       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Tuesday                  14291 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Wednesday                16272 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Thursday                 11494 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Monday                   19299 commits       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Tuesday                  14291 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Wednesday                16272 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Thursday                 11494 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
 Friday                   8609 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Saturday                 10538 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Saturday                 10587 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 Sunday                   11252 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 ```
 
@@ -74,41 +74,41 @@ Sunday                   11252 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.83 % 
-HTML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Kotlin                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-TypeScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Markdown                 6 hrs 27 mins       ██████████████░░░░░░░░░░░   55.12 % 
+Kotlin                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+TypeScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Text                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Other                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 51 mins      ████████████████████████░   97.04 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Claude Code              11 hrs 17 mins      ████████████████████████░   96.40 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      14 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 5 mins (98.72%)
+⏱ AI Coding Time: 11 hrs 31 mins (98.44%)
 
-✍️ 25,457 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 24,613 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,148,507 Input Tokens, 2,044,958 Output Tokens
+🔤 7,299,564 Input Tokens, 1,913,641 Output Tokens
 
-💵 $192.16 Estimated AI Cost This Week
+💵 $180.85 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 228 AI Prompts
+🧠 42 AI Sessions, 190 AI Prompts
 
-Opus                     25,511 lines        █████████████████████████   100.00 % 
+Opus                     24,667 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,815 characters per prompt
+📚 Verbose Prompter — average 5,722 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -126,5 +126,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 21:25:19 UTC
+ Last Updated on 25/10/2026 21:25:54 UTC
 <!--END_SECTION:waka-->

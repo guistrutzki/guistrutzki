@@ -74,39 +74,37 @@ Sunday                   11252 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 44 mins        ████████████████████░░░░░   81.72 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Gosu                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Markdown                 25 mins             █████████████░░░░░░░░░░░░   53.95 % 
+Gosu                     10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Other                    10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
 
 🔥 Editors: 
-Claude Code              1 hr 53 mins        ██████████████████████░░░   88.73 % 
-Cursor                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Claude Code              36 mins             ███████████████████░░░░░░   76.80 % 
+Cursor                   10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
 
 💻 Operating System: 
-Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (91.44%)
+⏱ AI Coding Time: 35 mins (76.41%)
 
-✍️ 453 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 233 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,469,247 Input Tokens, 134,862 Output Tokens
+🔤 211,526 Input Tokens, 49,071 Output Tokens
 
-💵 $27.74 Estimated AI Cost This Week
+💵 $14.94 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 36 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
-Opus                     453 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     233 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 254 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 80 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -123,5 +121,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 23:09:54 UTC
+ Last Updated on 29/10/2026 23:18:47 UTC
 <!--END_SECTION:waka-->

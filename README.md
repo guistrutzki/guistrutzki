@@ -74,37 +74,36 @@ Sunday                   11252 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 25 mins             █████████████░░░░░░░░░░░░   53.95 % 
-Gosu                     10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Other                    10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Markdown                 11 mins             █████████████░░░░░░░░░░░░   51.19 % 
+Gosu                     10 mins             ████████████░░░░░░░░░░░░░   48.81 % 
 
 🔥 Editors: 
-Claude Code              36 mins             ███████████████████░░░░░░   76.80 % 
-Cursor                   10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Claude Code              11 mins             █████████████░░░░░░░░░░░░   51.19 % 
+Cursor                   10 mins             ████████████░░░░░░░░░░░░░   48.81 % 
 
 💻 Operating System: 
-Mac                      46 mins             █████████████████████████   100.00 % 
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (76.41%)
+⏱ AI Coding Time: 11 mins (51.19%)
 
-✍️ 233 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 19 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 211,526 Input Tokens, 49,071 Output Tokens
+🔤 70,648 Input Tokens, 30,841 Output Tokens
 
-💵 $14.94 Estimated AI Cost This Week
+💵 $6.21 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Opus                     233 lines           █████████████████████████   100.00 % 
+Opus                     19 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 80 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 34 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -121,5 +120,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 23:18:47 UTC
+ Last Updated on 30/10/2026 22:57:40 UTC
 <!--END_SECTION:waka-->
